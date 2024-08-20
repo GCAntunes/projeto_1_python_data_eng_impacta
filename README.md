@@ -49,11 +49,3 @@ pip install -r requirements.txt
 python decode_morse.py
 ```
 
-----
-
-#### AGORA É COM VOCÊ
-Altere o projeto para receber um texto, ou seja, mais de uma palavra, sendo que:
-- As letras devem ser separadas por um espaço
-- As palavras devem ser separadas por dois espaços
-- Executar com pelo menos 3 cenários diferentes, ou seja, 3 textos
-- Você deve criar estes textos /frases de input
